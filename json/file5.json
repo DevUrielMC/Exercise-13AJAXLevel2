@@ -1,0 +1,16 @@
+{
+    "Gary" : {
+        "especie" : "caracol",
+        "nOjos" : 2,
+        "estatura" : 4,
+        "unidadMedida" : "centimetros"
+    },
+
+    "Bob Esponja" : {
+        "especie" : "Esponja Marina",
+        "color" : "amarillo",
+        "nOjos" : 2,
+        "estatura" : 4,
+        "unidadMedida" : "pulgadas"
+    }
+}

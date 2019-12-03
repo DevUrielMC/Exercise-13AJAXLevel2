@@ -1,0 +1,19 @@
+{
+    "estadoMexico" : {
+        "Jalisco" : {
+            "nHabitantes" : 6000000,
+            "gentilicio" : "Jalisquillos",
+            "comidaPreferida" : "Torta ahogada",
+            "ubicacion" : 
+            [ 
+                {
+                    "latitud" : 20.34
+                }, 
+                {
+                    "longitud" : 103.4
+                }
+            ],
+            "sistemaMedida" : "UTM"
+        }
+    }
+}
